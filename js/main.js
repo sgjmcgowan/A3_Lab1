@@ -27,7 +27,8 @@
      carDesc.textContent = objectIndex.description;
 
      //change the opacity of the clicked image
-     
+     this.style.opacity = 1.0;
+
 
 
 
